@@ -124,6 +124,7 @@ body
 	position: absolute;
 	top: 85px;
 	margin-left: -62px;
+	display: none;
 }
 
 .menu_down li
